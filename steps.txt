@@ -1,0 +1,11 @@
+Steps
+
+    1. User enters in the dollar amount of bill
+
+    2. User selects percentage amount from dropdown
+
+    3. JavaScript tip calculator function multiplies the bill amount with the tip percentage to calculate tip amount
+
+    4. JavaScript tip calculator adds your bill amount to tip amount calculated in previous step
+
+    5. JavaScript tip calculator returns your bill amount, tip amount, and your total bill to the end user and by appending it to html
